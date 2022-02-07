@@ -1,2 +1,2 @@
-# Ci-ncias-de-dados
+# Ciências-de-dados
 Repositório de projetos DS
